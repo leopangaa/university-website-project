@@ -82,7 +82,6 @@ if (!isset($_SESSION['user_id'])) {
       display: inline-block;
     }
 
-    /* ✅ Mobile responsive */
     @media (max-width: 768px) {
       .form-card {
         max-width: 100%;
